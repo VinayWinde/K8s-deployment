@@ -9,4 +9,4 @@ This project is a sample Spring Boot REST API application, containerized using D
 - **Docker**
 - **Kubernetes (Minikube/Cloud)**
 - **Maven/Gradle**
-- **PostgreSQL / H2 (optional)**
+- **MySQL / H2 (optional)**
